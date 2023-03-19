@@ -22,6 +22,7 @@
 *************************************************************************************************
  NAVIGOINTI:
  Pelissä navigoidaan numeronäppäimillä ja valitsemalla Enter.
+ Jos painelet väärissä paikoissa kirjaimia niin peli kaatuu helposti.
 *************************************************************************************************
  PELIN TARKOITUS:
  Tähtäämme siihen, että pelaaja myhäilee pelin päätyttyä. Silloin koemme onnistuneemme!

@@ -26,11 +26,13 @@
  PELIN TARKOITUS:
  Tähtäämme siihen, että pelaaja myhäilee pelin päätyttyä. Silloin koemme onnistuneemme!
 *************************************************************************************************
-
-               		         Copyright 2023 Arto Leiviska
-
-
-
-
+ Released for Windows CMD in 19/03/2023.
+ Mode: Singleplayer game
+ Genres: Adventure
+ Programming language: C++
+ Designer and developer: Arto Leiviska
+ Copyright 2023 Arto Leiviska
 *************************************************************************************************
-*************************************************************************************************
+
+
+************************************** Enjoy the game ! *****************************************			
